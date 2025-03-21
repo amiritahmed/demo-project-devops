@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class AmazonHomePage {
-
+//this is dedicated for amazon home page
     @FindBy(id = "twotabsearchtextbox")
     private WebElement searchBox;
 
